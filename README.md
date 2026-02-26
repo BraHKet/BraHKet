@@ -26,38 +26,23 @@
 
 ### 💻 Tech Stack & Skills
 
-<p align="center">
-  <details>
-    <summary><b>Core AI & Data</b></summary>
-    <p>
-      <img src="https://img.icons8.com/color/48/000000/kaggle.png" alt="Kaggle"/> 
-      <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL"/> 
-      <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" alt="Microsoft Excel"/> 
-      <img src="https://img.icons8.com/color/48/000000/pytorch.png" alt="PyTorch"/>
-      <img src="https://img.icons8.com/color/48/000000/scikit-learn.png" alt="Scikit-learn"/>
-      <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas"/>
-      <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy"/>
-    </p>
-  </details>
-  <details>
-    <summary><b>Languages</b></summary>
-    <p>
-      <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
-      <img src="https://img.icons8.com/color/48/000000/java.png" alt="Java"/>
-      <img src="https://img.icons8.com/color/48/000000/r-project.png" alt="R"/>
-      <img src="https://img.icons8.com/color/48/000000/c-plus-plus.png" alt="C++"/>
-    </p>
-  </details>
-  <details>
-    <summary><b>Dev Tools & DB</b></summary>
-    <p>
-      <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
-      <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL"/>
-      <img src="https://img.icons8.com/color/48/000000/latex.png" alt="LaTeX"/>
-      <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code"/>
-    </p>
-  </details>
-</p>
+#### Core AI & Data
+<img src="https://img.shields.io/badge/Kaggle-100000?style=for-the-badge&logo=kaggle&logoColor=white" height="28"> 
+<img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=sqlite&logoColor=white" height="28"> 
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="28"> 
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="28">
+
+#### Languages
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" height="28">
+
+#### Dev Tools & DB
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="28">
 
 <p align="center">
   <b>Domains:</b> Machine Learning • Predictive Modeling 
