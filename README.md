@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/BraHKet">
-    <img src="https://camo.githubusercontent.com/591733fee87103aac03e404ed3701b80cd42ae973e73941f3ab6d4ab6f410552/68747470733a2f2f74696e7975726c2e636f6d2f6d34627363667a35" alt="Man at computer">
+    <img src="https://camo.githubusercontent.com/591733fee87103aac03e404ed3701b80cd42ae973e73941f3ab6d4ab6f410552/68747470733a2f2f74696e7975726c2e636f6d2f6d34627363667a35" alt="Man at computer" width="150">
   </a>
 </p>
 
@@ -26,23 +26,29 @@
 
 ### 💻 Tech Stack & Skills
 
-#### Core AI & Data
-<img src="https://img.shields.io/badge/Kaggle-100000?style=for-the-badge&logo=kaggle&logoColor=white" height="28"> 
-<img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=sqlite&logoColor=white" height="28"> 
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="28"> 
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="28">
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="28">
+#### **Core AI & Data**
+<p>
+  <img src="https://img.shields.io/badge/Kaggle-100000?style=for-the-badge&logo=kaggle&logoColor=white" height="28"> 
+  <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=sqlite&logoColor=white" height="28"> 
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="28"> 
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="28">
+</p>
 
-#### Languages
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28">
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" height="28">
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="28">
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" height="28">
+#### **Languages**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" height="28">
+</p>
 
-#### Dev Tools & DB
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="28">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="28">
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="28">
+#### **Dev Tools & DB**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="28">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="28">
+</p>
 
 <p align="center">
   <b>Domains:</b> Machine Learning • Predictive Modeling 
