@@ -59,9 +59,9 @@
 ### 🎓 Research & Thesis
 
 *   My academic focus has been on **handling missing data in a binary classification problem (healthy vs. diseased patients), using decision trees (CART algorithm) with a specific study on surrogate splits**.
-*   **Gestione dei dati mancanti in Machine Learning applicazione a dati clinici per la diagnosi di patologie cardiache-LorenzoRizzo:** <a href="https://doi.org/10.13140/RG.2.2.20379.94246" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/12/ResearchGate_icon.svg" alt="ResearchGate" width="30" height="30">
-</a>.
+*   **Gestione dei dati mancanti in Machine Learning applicazione a dati clinici per la diagnosi di patologie cardiache-LorenzoRizzo:** <a href="https://www.researchgate.net/publication/359207034_Gestione_dei_dati_mancanti_in_Machine_Learning_applicazione_a_dati_clinici_per_la_diagnosi_di_patologie_cardiache" target="_blank"> <!-- LINK CORRETTO -->
+  <img src="https://raw.githubusercontent.com/tandav/badges/main/researchgate.svg" alt="ResearchGate" width="30" height="30"> <!-- Immagine ResearchGate CORRETTA -->
+</a>
 
 ---
 
