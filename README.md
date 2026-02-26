@@ -57,7 +57,7 @@
 </table>
 
 <p align="center">
-  <b>Domains:</b> Machine Learning • Predictive Modeling 
+  <b>Domains:</b> Predictive Modeling • SQL • Data Visualization • Data Cleaning • Feature Engineering
 </p>
 
 
