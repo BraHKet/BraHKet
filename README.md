@@ -81,7 +81,7 @@
 > Handling missing data in clinical ML using decision tree surrogate splits.
 > * Benchmarked imputation strategies against surrogate-based approaches on medical datasets.
 > * **Tech:** Python, scikit-learn, pandas.
-> * 
+
 #### 🤖 [AI-Tutor – Mentora](https://github.com/YOUR_USERNAME/AI-Tutor)
 > Full-stack AI platform for active learning with notes, PDFs, and interactive formulas & charts.
 > * Integrated **OpenAI** and **Gemini** APIs with a RAG-pattern evaluation system.
