@@ -63,6 +63,33 @@
 
 ---
 
+
+### 🛠️ Selected Projects
+
+#### 📊 [RawData EDA Project](https://github.com/YOUR_USERNAME/RawData_EDA_Project)
+> Exploratory data analysis on Apple job postings dataset.
+> * Cleaned and preprocessed raw job listing data using **Python** and **pandas**.
+> * Extracted structured skills data via **LLM pipeline** (OpenAI Structured Outputs + Pydantic).
+> * **Tech:** Jupyter Notebook, SQLAlchemy, MySQL, OpenAI API.
+
+#### 👟 [Adidas Retail Analysis](https://github.com/YOUR_USERNAME/adidas-retail-analysis)
+> Multi-market retail analysis of Adidas product catalogs across 10 countries.
+> * Investigated **price intelligence**, discount patterns, size availability, and demand signals.
+> * **Tech:** Jupyter Notebook, Python, SQL, Tableau.
+
+#### 🌲 [Surrogate Splits for Missing Data](https://github.com/YOUR_USERNAME/surrogate-splits-missing-data)
+> Handling missing data in clinical ML using decision tree surrogate splits.
+> * Benchmarked imputation strategies against surrogate-based approaches on medical datasets.
+> * **Tech:** Python, scikit-learn, pandas.
+> * 
+#### 🤖 [AI-Tutor – Mentora](https://github.com/YOUR_USERNAME/AI-Tutor)
+> Full-stack AI platform for active learning with notes, PDFs, and interactive formulas & charts.
+> * Integrated **OpenAI** and **Gemini** APIs with a RAG-pattern evaluation system.
+> * **Tech:** JavaScript, Node.js, OpenAI API, Gemini API.
+
+
+---
+
      
 ### 🎓 Research & Thesis
 
@@ -81,7 +108,3 @@
     </td>
   </tr>
 </table>
-
----
-
-### 🛠️ Selected Projects
