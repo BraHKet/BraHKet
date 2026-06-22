@@ -108,7 +108,7 @@
       </ul>
     </td>
     <td width="30%" align="center" valign="top"> 
-      <a href="https://www.researchgate.net/publication/359207034_Gestione_dei_dati_mancanti_in_Machine_Learning_applicazione_a_dati_clinici_per_la_diagnosi_di_patologie_cardiache" target="_blank">
+      <a href="https://www.researchgate.net/publication/400940874_Gestione_dei_dati_mancanti_in_Machine_Learning_applicazione_a_dati_clinici_per_la_diagnosi_di_patologie_cardiache?utm_source=twitter&rgutm_meta1=eHNsLUV3V1pSMlJSYnJ3L2RBMzVpQ3J5bldwRTlqMWc0TWJyK2tDdGl2TVBkazlXL2oyRWRtNWhvTktqbE9WWGNVQzBabGdlcGpzZnRnV251Vk1uSlVwbG10Yz0%3D " target="_blank">
         <img src="https://play-lh.googleusercontent.com/qyNEwOebhNJTbeNQ9KOg_XdZVbTu0Rv5Oh4mDHbgUKv23VDP4wlhbvqcjEvUAjKRaEo" alt="ResearchGate" width="150"> 
       </a>
     </td>
