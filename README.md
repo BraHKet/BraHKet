@@ -89,11 +89,6 @@
 > * Developed **interactive Tableau dashboards** for market overview and investment opportunity analysis.
 > * **Tech:** Python, Pandas, Tableau.
 
-#### 🤖 [AI-Tutor – Mentora](https://github.com/BraHKet/AI-Tutor)
-> Full-stack AI platform for active learning with notes, PDFs, and interactive formulas & charts.
-> * Integrated **OpenAI** and **Gemini** APIs with a RAG-pattern evaluation system.
-> * **Tech:** JavaScript, Node.js, OpenAI API, Gemini API.
-
 ---
 
      
